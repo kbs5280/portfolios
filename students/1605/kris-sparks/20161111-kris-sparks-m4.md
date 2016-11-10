@@ -57,8 +57,8 @@ Notes:
 
 -----
 
-* TOTAL points for the module: 1024
-* TOTAL percentage 89.82%
+TOTAL points for the module: 1024
+TOTAL percentage 89.82%
 -----
 
 ## B: Individual Work & Projects
