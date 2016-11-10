@@ -208,7 +208,7 @@ The output from JSHint shows…
 I had the opportunity to job shadow at CaptianU. It was a great experience. I was paired with a Turing alumni who was able to speak directly to my questions and concerns. It was convenient that they use a familiar stack. It was encouraging to see a large code base the I could understand and imagine working on. Job shadowing is something that should be a permanent fixture at Turing.
 
 
-### E: Feedback and Community Participation
+### Feedback and Community Participation
 
 To Zack:  
 "Working with Zack is always a positive experience. Of all the things that stand out, the thing that stands out the most to me is his willingness to take on any problem. He is always willing to dig in and find a solution regardless of the issue. We both need to continue to work on time-boxing our work and managing our time efficiently. Zack’s commitment to learning and working hard is notable and will serve him well in whatever is next."
