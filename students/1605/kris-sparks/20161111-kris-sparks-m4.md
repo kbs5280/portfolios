@@ -2,7 +2,7 @@
 
 ## Areas of Emphasis
 
-My goal for Module 4 is to learn JavaScript, reinforce the fundamentals and concepts that I have learned throughout my time at Turing and to begin focusing on the job search. I plan to dedicate the first three weeks purely to academics, learning JavaScript through Idea Box and Game Time. During week 4 I plan to shift my focus  by attending meet-ups, job events, and reaching out to contacts in the community.
+My goals for Module 4 are to learn JavaScript, reinforce the fundamentals and concepts that I have learned throughout my time at Turing and to begin focusing on the job search. I plan to dedicate the first three weeks purely to academics, learning JavaScript through Idea Box and Game Time. During week 4 I plan to shift my focus  by attending meet-ups, job events, and reaching out to contacts in the community.
 
 -----
 
